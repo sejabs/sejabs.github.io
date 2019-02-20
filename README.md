@@ -1,2 +1,2 @@
 # sejabs.github.io
-For self-learn Bayesian Deep Neural Networks
+For self-learning Bayesian Deep Neural Networks.
